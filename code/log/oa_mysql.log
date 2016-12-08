@@ -1,0 +1,119 @@
+[MySQL ERROR] 2016-11-30 16:20:02 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-11-30 16:32:29 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&&_t=0.7154289775412157
+[MySQL ERROR] 2016-11-30 16:32:29 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-11-30 16:42:11 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&&_t=0.9711891261821273
+[MySQL ERROR] 2016-11-30 16:42:11 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-11-30 16:49:58 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-11-30 16:53:05 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('1', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-11-30 16:53:56 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('1', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&&_t=0.7275558740578809
+[MySQL ERROR] 2016-11-30 16:53:56 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('1', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-11-30 16:55:04 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('1', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&&_t=0.10426373605097994
+[MySQL ERROR] 2016-11-30 16:55:04 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('1', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-11-30 16:56:17 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('1', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&&_t=0.09332946326205915
+[MySQL ERROR] 2016-11-30 16:56:17 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('1', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-11-30 16:56:22 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('1', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-11-30 16:56:39 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('1', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-11-30 17:01:08 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('1', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&&_t=0.10757801523827593
+[MySQL ERROR] 2016-11-30 17:01:08 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('1', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-11-30 17:01:55 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('1', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-11-30 17:02:01 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('1', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-11-30 17:02:21 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('1', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&&_t=0.07125709745265518
+[MySQL ERROR] 2016-11-30 17:02:21 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('1', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-11-30 17:04:37 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('1', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-11-30 17:05:08 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('1', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-11-30 17:05:28 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('1', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&&_t=0.26848983096186574
+[MySQL ERROR] 2016-11-30 17:05:28 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('1', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-11-30 17:06:20 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('1', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-11-30 17:06:30 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('1', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&&_t=0.8181901526767059
+[MySQL ERROR] 2016-11-30 17:06:30 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('1', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-11-30 17:08:25 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('1', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-11-30 17:08:35 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('1', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&&_t=0.9708058860885109
+[MySQL ERROR] 2016-11-30 17:08:35 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('1', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-11-30 17:09:11 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('1', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&&_t=0.2351580179131898
+[MySQL ERROR] 2016-11-30 17:09:11 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('1', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-11-30 17:10:46 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('1', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-11-30 17:12:07 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('1', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-11-30 17:12:36 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('1', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-11-30 17:13:10 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('1', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-11-30 17:24:17 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('1', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-11-30 17:27:53 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-11-30 17:28:05 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&&_t=0.4333355891509496
+[MySQL ERROR] 2016-11-30 17:28:05 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-11-30 17:35:04 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&&_t=0.6049640112962731
+[MySQL ERROR] 2016-11-30 17:35:04 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-11-30 17:35:31 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&&_t=0.12758987809673572
+[MySQL ERROR] 2016-11-30 17:35:31 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-11-30 17:36:34 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&&_t=0.5967338279477072
+[MySQL ERROR] 2016-11-30 17:36:34 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-11-30 17:38:35 : Unknown column 'login_name' in 'where clause' ["select * from user where login_name='gaozhen'"] : http://oa.cyj.com/index.php?user/index/login&&_t=0.540056152440918
+[MySQL ERROR] 2016-11-30 17:38:35 : Unknown column 'login_name' in 'where clause' ["select * from user where login_name='gaozhen'"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-11-30 17:38:53 : Unknown column 'login_name' in 'where clause' ["select * from user where login_name='gaozhen'"] : http://oa.cyj.com/index.php?user/index/login&&_t=0.1302604738959936
+[MySQL ERROR] 2016-11-30 17:38:53 : Unknown column 'login_name' in 'where clause' ["select * from user where login_name='gaozhen'"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-11-30 17:40:30 : Unknown column 'login_name' in 'where clause' ["select * from user where login_name='gaozhen'"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-11-30 17:40:38 : Unknown column 'login_name' in 'where clause' ["select * from user where login_name='gaozhen'"] : http://oa.cyj.com/index.php?user/index/login&&_t=0.034011737270320586
+[MySQL ERROR] 2016-11-30 17:40:38 : Unknown column 'login_name' in 'where clause' ["select * from user where login_name='gaozhen'"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-11-30 17:41:10 : Unknown column 'login_name' in 'where clause' ["select * from user where login_name='gaozhen'"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-11-30 17:41:29 : Unknown column 'login_name' in 'where clause' ["select * from user where login_name='gaozhen'"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-11-30 17:41:45 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-11-30 17:42:20 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&&_t=0.5327688500656604
+[MySQL ERROR] 2016-11-30 17:42:20 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-11-30 17:43:41 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&&_t=0.7266604533391849
+[MySQL ERROR] 2016-11-30 17:43:41 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-11-30 17:47:12 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&&_t=0.626346347223478
+[MySQL ERROR] 2016-11-30 17:47:12 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-11-30 17:51:11 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&&_t=0.44509681092082687
+[MySQL ERROR] 2016-11-30 17:51:11 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-11-30 17:55:55 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&&_t=0.2507313894079197
+[MySQL ERROR] 2016-11-30 17:55:55 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-11-30 17:57:41 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&&_t=0.961481808646329
+[MySQL ERROR] 2016-11-30 17:57:42 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-11-30 17:59:06 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-11-30 17:59:26 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-11-30 17:59:59 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&&_t=0.2417896107449804
+[MySQL ERROR] 2016-11-30 17:59:59 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-12-01 09:43:12 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&&_t=0.12469520253775457
+[MySQL ERROR] 2016-12-01 09:43:12 : Table 'cyj.login_log' doesn't exist ["insert into login_log (`uid`,`ip`) values ('', '127.0.0.1')"] : http://oa.cyj.com/index.php?user/index/login&
+[MySQL ERROR] 2016-12-01 10:43:14 : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 ["select count(0) as num from  "] : http://oa.cyj.com/index.php?user/index/index&
+[MySQL ERROR] 2016-12-02 11:01:29 : Unknown column 'id' in 'where clause' ["select * from cyj.user where id=3"] : http://oa.cyj.com/index.php?user/manager/create&&_t=0.04538276530488283
+[MySQL ERROR] 2016-12-02 11:01:29 : Unknown column 'id' in 'where clause' ["select * from cyj.user where id=3"] : http://oa.cyj.com/index.php?user/manager/create&
+[MySQL ERROR] 2016-12-02 11:02:58 : Unknown column 'id' in 'where clause' ["select * from cyj.user where id=3"] : http://oa.cyj.com/index.php?user/manager/create&&_t=0.0320281324838787
+[MySQL ERROR] 2016-12-02 11:02:58 : Unknown column 'id' in 'where clause' ["select * from cyj.user where id=3"] : http://oa.cyj.com/index.php?user/manager/create&
+[MySQL ERROR] 2016-12-02 11:13:42 : Unknown column 'id' in 'where clause' ["select * from cyj.user where id=3"] : http://oa.cyj.com/index.php?user/manager/create&&_t=0.4331674872998159
+[MySQL ERROR] 2016-12-02 11:13:42 : Unknown column 'id' in 'where clause' ["select * from cyj.user where id=3"] : http://oa.cyj.com/index.php?user/manager/create&
+[MySQL ERROR] 2016-12-02 11:22:57 : Unknown column 'id' in 'where clause' ["select * from cyj.user where id=3"] : http://oa.cyj.com/index.php?user/manager/create&&_t=0.9123646282038496
+[MySQL ERROR] 2016-12-02 11:22:57 : Unknown column 'id' in 'where clause' ["select * from cyj.user where id=3"] : http://oa.cyj.com/index.php?user/manager/create&
+[MySQL ERROR] 2016-12-02 11:23:14 : Unknown column 'id' in 'where clause' ["select * from cyj.user where id=3"] : http://oa.cyj.com/index.php?user/manager/create&&_t=0.09557646920758267
+[MySQL ERROR] 2016-12-02 11:23:14 : Unknown column 'id' in 'where clause' ["select * from cyj.user where id=3"] : http://oa.cyj.com/index.php?user/manager/create&
+[MySQL ERROR] 2016-12-02 11:23:47 : Unknown column 'id' in 'where clause' ["select * from cyj.user where id=3"] : http://oa.cyj.com/index.php?user/manager/create&&_t=0.3711109910386292
+[MySQL ERROR] 2016-12-02 11:23:47 : Unknown column 'id' in 'where clause' ["select * from cyj.user where id=3"] : http://oa.cyj.com/index.php?user/manager/create&
+[MySQL ERROR] 2016-12-02 11:24:19 : Unknown column 'id' in 'where clause' ["select * from cyj.user where id=3"] : http://oa.cyj.com/index.php?user/manager/create&&_t=0.7590588436120802
+[MySQL ERROR] 2016-12-02 11:24:19 : Unknown column 'id' in 'where clause' ["select * from cyj.user where id=3"] : http://oa.cyj.com/index.php?user/manager/create&
+[MySQL ERROR] 2016-12-02 11:26:09 : Unknown column 'id' in 'where clause' ["select * from cyj.user where id=3"] : http://oa.cyj.com/index.php?user/manager/create&&_t=0.08262454673568187
+[MySQL ERROR] 2016-12-02 11:26:09 : Unknown column 'id' in 'where clause' ["select * from cyj.user where id=3"] : http://oa.cyj.com/index.php?user/manager/create&
+[MySQL ERROR] 2016-12-02 11:26:24 : Unknown column 'id' in 'where clause' ["select * from cyj.user where id=3"] : http://oa.cyj.com/index.php?user/manager/create&&_t=0.3314009078115243
+[MySQL ERROR] 2016-12-02 11:26:24 : Unknown column 'id' in 'where clause' ["select * from cyj.user where id=3"] : http://oa.cyj.com/index.php?user/manager/create&
+[MySQL ERROR] 2016-12-02 11:26:44 : Unknown column 'id' in 'where clause' ["select * from cyj.user where id=3"] : http://oa.cyj.com/index.php?user/manager/create&&_t=0.44382763971148576
+[MySQL ERROR] 2016-12-02 11:26:44 : Unknown column 'id' in 'where clause' ["select * from cyj.user where id=3"] : http://oa.cyj.com/index.php?user/manager/create&
+[MySQL ERROR] 2016-12-02 12:14:43 : Unknown column 'id' in 'where clause' ["select * from cyj.user where id=3"] : http://oa.cyj.com/index.php?user/manager/create&&_t=0.05938216752716574
+[MySQL ERROR] 2016-12-02 12:14:43 : Unknown column 'id' in 'where clause' ["select * from cyj.user where id=3"] : http://oa.cyj.com/index.php?user/manager/create&
+[MySQL ERROR] 2016-12-02 12:14:58 : Unknown column 'id' in 'where clause' ["select * from cyj.user where id=3"] : http://oa.cyj.com/index.php?user/manager/create&&_t=0.039312722061777716
+[MySQL ERROR] 2016-12-02 12:14:58 : Unknown column 'id' in 'where clause' ["select * from cyj.user where id=3"] : http://oa.cyj.com/index.php?user/manager/create&
+[MySQL ERROR] 2016-12-02 12:16:09 : Unknown column 'id' in 'where clause' ["select * from cyj.user where id=3"] : http://oa.cyj.com/index.php?user/manager/create&&_t=0.10371247178281484
+[MySQL ERROR] 2016-12-02 12:16:09 : Unknown column 'id' in 'where clause' ["select * from cyj.user where id=3"] : http://oa.cyj.com/index.php?user/manager/create&
+[MySQL ERROR] 2016-12-02 12:16:44 : Unknown column 'id' in 'where clause' ["select * from cyj.user where id=3"] : http://oa.cyj.com/index.php?user/manager/create&&_t=0.8574237199242707
+[MySQL ERROR] 2016-12-02 12:16:44 : Unknown column 'id' in 'where clause' ["select * from cyj.user where id=3"] : http://oa.cyj.com/index.php?user/manager/create&
+[MySQL ERROR] 2016-12-02 12:17:35 : Unknown column 'id' in 'where clause' ["select * from cyj.user where id=3"] : http://oa.cyj.com/index.php?user/manager/create&&_t=0.20150484607855512
+[MySQL ERROR] 2016-12-02 12:17:35 : Unknown column 'id' in 'where clause' ["select * from cyj.user where id=3"] : http://oa.cyj.com/index.php?user/manager/create&
+[MySQL ERROR] 2016-12-02 12:17:44 : Unknown column 'id' in 'where clause' ["select * from cyj.user where id=3"] : http://oa.cyj.com/index.php?user/manager/create&&_t=0.22730102949581776
+[MySQL ERROR] 2016-12-02 12:17:44 : Unknown column 'id' in 'where clause' ["select * from cyj.user where id=3"] : http://oa.cyj.com/index.php?user/manager/create&
+[MySQL ERROR] 2016-12-02 12:18:07 : Unknown column 'id' in 'where clause' ["select * from cyj.user where id=3"] : http://oa.cyj.com/index.php?user/manager/create&&_t=0.1510467445194894
+[MySQL ERROR] 2016-12-02 13:05:01 : Unknown column 'id' in 'where clause' ["select * from cyj.user where id=3"] : http://oa.cyj.com/index.php?user/manager/create&&_t=0.48219207035615996
+[MySQL ERROR] 2016-12-02 13:06:17 : Unknown column 'id' in 'where clause' ["select * from cyj.user where id=3"] : http://oa.cyj.com/index.php?user/manager/create&&_t=0.4882103107333422
+[MySQL ERROR] 2016-12-02 13:07:16 : Unknown column 'id' in 'where clause' ["select * from cyj.user where id=3"] : http://oa.cyj.com/index.php?user/manager/create&&_t=0.7240117098446777
+[MySQL ERROR] 2016-12-02 17:01:04 : Unknown column 'id' in 'where clause' ["select * from cyj.user where id=3"] : http://oa.cyj.com/index.php?user/manager/create&&_t=0.820305160496805
+[MySQL ERROR] 2016-12-02 17:05:19 : Unknown column 'id' in 'where clause' ["select * from cyj.user where id=3"] : http://oa.cyj.com/index.php?user/manager/create&&_t=0.5153369122836156
+[MySQL ERROR] 2016-12-02 17:40:33 : Unknown column 'id' in 'where clause' ["select * from cyj.user where id=2"] : http://oa.cyj.com/index.php?user/manager/create&&_t=0.29318769781965504
+[MySQL ERROR] 2016-12-02 17:40:39 : Unknown column 'id' in 'where clause' ["select * from cyj.user where id=2"] : http://oa.cyj.com/index.php?user/manager/create&&_t=0.8384033080533035
+[MySQL ERROR] 2016-12-02 17:44:57 : Unknown column 'id' in 'where clause' ["select * from cyj.user where id=2"] : http://oa.cyj.com/index.php?user/manager/create&&_t=0.38670574552816706
+[MySQL ERROR] 2016-12-05 09:21:13 : Unknown column 'id' in 'where clause' ["select * from cyj.user where id=4"] : http://oa.cyj.com/index.php?user/manager/create&&_t=0.8483625944304525
+[MySQL ERROR] 2016-12-05 09:21:20 : Unknown column 'id' in 'where clause' ["select * from cyj.user where id=2"] : http://oa.cyj.com/index.php?user/manager/create&&_t=0.7926552411515253
