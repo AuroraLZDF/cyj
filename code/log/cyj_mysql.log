@@ -1,0 +1,78 @@
+[MySQL ERROR] 2016-12-26 11:08:05 : exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in F:\www\angular\code\class\Mysql.php:27
+Stack trace:
+#0 F:\www\angular\code\class\Mysql.php(27): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 F:\www\angular\code\class\Mysql.php(57): Mysql->__construct()
+#2 F:\www\angular\code\index.php(9): Mysql::getInstance()
+#3 {main}
+[MySQL ERROR] 2016-12-26 11:09:05 : exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in F:\www\angular\code\class\Mysql.php:27
+Stack trace:
+#0 F:\www\angular\code\class\Mysql.php(27): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 F:\www\angular\code\class\Mysql.php(57): Mysql->__construct()
+#2 F:\www\angular\code\index.php(9): Mysql::getInstance()
+#3 {main}
+[MySQL ERROR] 2016-12-26 11:14:16 : exception 'PDOException' with message 'SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: 不知道这样的主机。 ' in F:\www\angular\code\class\Mysql.php:40
+Stack trace:
+#0 F:\www\angular\code\class\Mysql.php(40): PDO->__construct('mysql:host=1;db...', '1', '1', Array)
+#1 F:\www\angular\code\class\Mysql.php(57): Mysql->__construct()
+#2 F:\www\angular\code\index.php(9): Mysql::getInstance()
+#3 {main}
+[MySQL ERROR] 2017-01-06 09:23:14 : exception 'PDOException' with message 'SQLSTATE[HY000] [2000] mysqlnd cannot connect to MySQL 4.1+ using the old insecure authentication. Please use an administration tool to reset your password with the command SET PASSWORD = PASSWORD('your_existing_password'). This will store a new, and more secure, hash value in mysql.user. If this user is used in other scripts executed by PHP 5.2 or earlier you might need to remove the old-passwords flag from your my.cnf file' in F:\www\angular\code\class\Mysql.php:27
+Stack trace:
+#0 F:\www\angular\code\class\Mysql.php(27): PDO->__construct('mysql:host=qdm1...', 'qdm12192579', 'gaozhen123', Array)
+#1 F:\www\angular\code\class\Mysql.php(57): Mysql->__construct()
+#2 F:\www\angular\code\index.php(9): Mysql::getInstance()
+#3 {main}
+[MySQL ERROR] 2017-01-06 09:23:14 : exception 'PDOException' with message 'SQLSTATE[HY000] [2000] mysqlnd cannot connect to MySQL 4.1+ using the old insecure authentication. Please use an administration tool to reset your password with the command SET PASSWORD = PASSWORD('your_existing_password'). This will store a new, and more secure, hash value in mysql.user. If this user is used in other scripts executed by PHP 5.2 or earlier you might need to remove the old-passwords flag from your my.cnf file' in F:\www\angular\code\class\Mysql.php:40
+Stack trace:
+#0 F:\www\angular\code\class\Mysql.php(40): PDO->__construct('mysql:host=qdm1...', 'qdm12192579', 'gaozhen123', Array)
+#1 F:\www\angular\code\class\Mysql.php(57): Mysql->__construct()
+#2 F:\www\angular\code\index.php(9): Mysql::getInstance()
+#3 {main}
+[MySQL ERROR] 2017-01-09 09:34:25 : exception 'PDOException' with message 'SQLSTATE[HY000] [2000] mysqlnd cannot connect to MySQL 4.1+ using the old insecure authentication. Please use an administration tool to reset your password with the command SET PASSWORD = PASSWORD('your_existing_password'). This will store a new, and more secure, hash value in mysql.user. If this user is used in other scripts executed by PHP 5.2 or earlier you might need to remove the old-passwords flag from your my.cnf file' in F:\www\angular\code\class\Mysql.php:27
+Stack trace:
+#0 F:\www\angular\code\class\Mysql.php(27): PDO->__construct('mysql:host=qdm1...', 'qdm12192579', 'gaozhen123', Array)
+#1 F:\www\angular\code\class\Mysql.php(57): Mysql->__construct()
+#2 F:\www\angular\code\index.php(9): Mysql::getInstance()
+#3 {main}
+[MySQL ERROR] 2017-01-09 09:34:25 : exception 'PDOException' with message 'SQLSTATE[HY000] [2000] mysqlnd cannot connect to MySQL 4.1+ using the old insecure authentication. Please use an administration tool to reset your password with the command SET PASSWORD = PASSWORD('your_existing_password'). This will store a new, and more secure, hash value in mysql.user. If this user is used in other scripts executed by PHP 5.2 or earlier you might need to remove the old-passwords flag from your my.cnf file' in F:\www\angular\code\class\Mysql.php:40
+Stack trace:
+#0 F:\www\angular\code\class\Mysql.php(40): PDO->__construct('mysql:host=qdm1...', 'qdm12192579', 'gaozhen123', Array)
+#1 F:\www\angular\code\class\Mysql.php(57): Mysql->__construct()
+#2 F:\www\angular\code\index.php(9): Mysql::getInstance()
+#3 {main}
+[MySQL ERROR] 2017-01-09 09:34:25 : exception 'PDOException' with message 'SQLSTATE[HY000] [2000] mysqlnd cannot connect to MySQL 4.1+ using the old insecure authentication. Please use an administration tool to reset your password with the command SET PASSWORD = PASSWORD('your_existing_password'). This will store a new, and more secure, hash value in mysql.user. If this user is used in other scripts executed by PHP 5.2 or earlier you might need to remove the old-passwords flag from your my.cnf file' in F:\www\angular\code\class\Mysql.php:27
+Stack trace:
+#0 F:\www\angular\code\class\Mysql.php(27): PDO->__construct('mysql:host=qdm1...', 'qdm12192579', 'gaozhen123', Array)
+#1 F:\www\angular\code\class\Mysql.php(57): Mysql->__construct()
+#2 F:\www\angular\code\index.php(9): Mysql::getInstance()
+#3 {main}
+[MySQL ERROR] 2017-01-09 09:34:25 : exception 'PDOException' with message 'SQLSTATE[HY000] [2000] mysqlnd cannot connect to MySQL 4.1+ using the old insecure authentication. Please use an administration tool to reset your password with the command SET PASSWORD = PASSWORD('your_existing_password'). This will store a new, and more secure, hash value in mysql.user. If this user is used in other scripts executed by PHP 5.2 or earlier you might need to remove the old-passwords flag from your my.cnf file' in F:\www\angular\code\class\Mysql.php:40
+Stack trace:
+#0 F:\www\angular\code\class\Mysql.php(40): PDO->__construct('mysql:host=qdm1...', 'qdm12192579', 'gaozhen123', Array)
+#1 F:\www\angular\code\class\Mysql.php(57): Mysql->__construct()
+#2 F:\www\angular\code\index.php(9): Mysql::getInstance()
+#3 {main}
+[MySQL ERROR] 2017-01-09 09:34:26 : exception 'PDOException' with message 'SQLSTATE[HY000] [2000] mysqlnd cannot connect to MySQL 4.1+ using the old insecure authentication. Please use an administration tool to reset your password with the command SET PASSWORD = PASSWORD('your_existing_password'). This will store a new, and more secure, hash value in mysql.user. If this user is used in other scripts executed by PHP 5.2 or earlier you might need to remove the old-passwords flag from your my.cnf file' in F:\www\angular\code\class\Mysql.php:27
+Stack trace:
+#0 F:\www\angular\code\class\Mysql.php(27): PDO->__construct('mysql:host=qdm1...', 'qdm12192579', 'gaozhen123', Array)
+#1 F:\www\angular\code\class\Mysql.php(57): Mysql->__construct()
+#2 F:\www\angular\code\index.php(9): Mysql::getInstance()
+#3 {main}
+[MySQL ERROR] 2017-01-09 09:34:26 : exception 'PDOException' with message 'SQLSTATE[HY000] [2000] mysqlnd cannot connect to MySQL 4.1+ using the old insecure authentication. Please use an administration tool to reset your password with the command SET PASSWORD = PASSWORD('your_existing_password'). This will store a new, and more secure, hash value in mysql.user. If this user is used in other scripts executed by PHP 5.2 or earlier you might need to remove the old-passwords flag from your my.cnf file' in F:\www\angular\code\class\Mysql.php:40
+Stack trace:
+#0 F:\www\angular\code\class\Mysql.php(40): PDO->__construct('mysql:host=qdm1...', 'qdm12192579', 'gaozhen123', Array)
+#1 F:\www\angular\code\class\Mysql.php(57): Mysql->__construct()
+#2 F:\www\angular\code\index.php(9): Mysql::getInstance()
+#3 {main}
+[MySQL ERROR] 2017-01-09 09:34:32 : exception 'PDOException' with message 'SQLSTATE[HY000] [2000] mysqlnd cannot connect to MySQL 4.1+ using the old insecure authentication. Please use an administration tool to reset your password with the command SET PASSWORD = PASSWORD('your_existing_password'). This will store a new, and more secure, hash value in mysql.user. If this user is used in other scripts executed by PHP 5.2 or earlier you might need to remove the old-passwords flag from your my.cnf file' in F:\www\angular\code\class\Mysql.php:27
+Stack trace:
+#0 F:\www\angular\code\class\Mysql.php(27): PDO->__construct('mysql:host=qdm1...', 'qdm12192579', 'gaozhen123', Array)
+#1 F:\www\angular\code\class\Mysql.php(57): Mysql->__construct()
+#2 F:\www\angular\code\index.php(9): Mysql::getInstance()
+#3 {main}
+[MySQL ERROR] 2017-01-09 09:34:32 : exception 'PDOException' with message 'SQLSTATE[HY000] [2000] mysqlnd cannot connect to MySQL 4.1+ using the old insecure authentication. Please use an administration tool to reset your password with the command SET PASSWORD = PASSWORD('your_existing_password'). This will store a new, and more secure, hash value in mysql.user. If this user is used in other scripts executed by PHP 5.2 or earlier you might need to remove the old-passwords flag from your my.cnf file' in F:\www\angular\code\class\Mysql.php:40
+Stack trace:
+#0 F:\www\angular\code\class\Mysql.php(40): PDO->__construct('mysql:host=qdm1...', 'qdm12192579', 'gaozhen123', Array)
+#1 F:\www\angular\code\class\Mysql.php(57): Mysql->__construct()
+#2 F:\www\angular\code\index.php(9): Mysql::getInstance()
+#3 {main}

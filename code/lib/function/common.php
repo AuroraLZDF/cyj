@@ -112,6 +112,10 @@ function show_message_static($mes, $url = '', $code = 1, $func = '', $timeHide =
 
 function show_message($mes, $url = '', $code = 1, $func = '', $timeHide = false)
 {
+    global $_SC;
+    if(!strpos($_SC['hiddenUrl'], $url)){
+        $url = $_SC['hiddenUrl'] . $url;
+    }
     echo json_encode(array('mes' => $mes, 'code' => $code, 'url' => $url, 'func' => $func, 'timeHide' => $timeHide));
     exit;
 }
@@ -175,6 +179,10 @@ function flag_table_little($uid, $str, $total = 4)
 
 function webheader($url)
 {
+    global $_SC;
+    if(!strpos($_SC['hiddenUrl'], $url)){
+        $url = $_SC['hiddenUrl'] . $url;
+    }
     header("HTTP/1.1 301 Moved Permanently");
     header("Location: $url");
     exit();
@@ -405,9 +413,9 @@ function show_error($message, $status_code = 500, $template = 'error_general')
     $GLOBALS['tpl']->assign('heading', $h);
     $GLOBALS['tpl']->assign('message', $message);
     if ($status_code == 404) {
-        $GLOBALS['tpl']->display("errors/error_404.tpl");
+        $GLOBALS['tpl']->display("oa/errors/error_404.tpl");
     } else {
-        $GLOBALS['tpl']->display("errors/$template.tpl");
+        $GLOBALS['tpl']->display("oa/errors/$template.tpl");
     }
 
     exit;

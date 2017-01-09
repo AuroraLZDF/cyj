@@ -32,6 +32,7 @@ class Ftp
      */
     function up_file($path, $newpath, $type = true)
     {
+        //$newpath = '/data/home/qxu1192580252/htdocs' . $newpath;var_dump($newpath);exit;
         if ($type) $this->dir_mkdirs($newpath);
         $this->off = @ftp_put($this->conn_id, $newpath, $path, FTP_BINARY);
         if (!$this->off) {

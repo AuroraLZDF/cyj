@@ -28,7 +28,7 @@ class AdModel
     {
         global $segments;
         $this->page = Page:: getInstance();
-        $this->url = '/' . $segments['mod'] . '/' . $segments['act'] . '/' . $segments['ac'];
+        $this->url = 'index.php?/' . $segments['mod'] . '/' . $segments['act'] . '/' . $segments['ac'];
         $this->_fields = $this->fields();
         $this->form = new Form($this);
 
@@ -89,7 +89,7 @@ class AdModel
 
         $this->page->setPageSize($page, $this->limit, $postion, $allpage, $count);
 
-        $str .= $this->page->getPagePlate($page, $allpage, $this->url . "?", $params);
+        $str .= $this->page->getPagePlate($page, $allpage, $this->url . "/", $params);
         $sql = "select $fd from " . $this->table . "  " . $this->where . "   $this->order limit $postion, $this->limit ";
 
         $datas = $GLOBALS['mysql']->getAll($sql);
@@ -98,7 +98,7 @@ class AdModel
 
         $GLOBALS['tpl']->assign('str', $str);
         $GLOBALS['tpl']->assign('datas', $datas);
-        $GLOBALS['tpl']->display("list.tpl");
+        $GLOBALS['tpl']->display("oa/list.tpl");
     }
 
     public function errorFunc()
@@ -181,7 +181,7 @@ class AdModel
         if (!$this->manage || !$this->create) {
             show_error('访问错误', 404);
         }
-        $GLOBALS['tpl']->display("create.tpl");
+        $GLOBALS['tpl']->display("oa/create.tpl");
     }
 
     public function createAfter(&$infos)
@@ -214,7 +214,7 @@ class AdModel
             show_error('数据不存在', 500);
         }
         $GLOBALS['tpl']->assign("data", $data);
-        $GLOBALS['tpl']->display("create.tpl");
+        $GLOBALS['tpl']->display("oa/create.tpl");
     }
 
     // 删除---即使不操作 也要继承重写--

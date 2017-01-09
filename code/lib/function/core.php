@@ -9,8 +9,8 @@ function tpl_init()
 {
     $tpl = new Smarty();
 
-    $tpl->template_dir = ROOT . '/' . TEMPLATE . '/tpl';
-    $tpl->compile_dir = ROOT . '/' . TEMPLATE . '/var/template_r';
+    $tpl->template_dir = ROOT . '/tpl';
+    $tpl->compile_dir = ROOT . '/var/template_r';
     $tpl->left_delimiter = '{';
     $tpl->right_delimiter = '}';
     return $tpl;
@@ -48,12 +48,10 @@ function _explode_segments($str)
 {
     $default_name = array('mod' => 'index', 'act' => 'index', 'ac' => 'index');
     $sfile = '';
-    $info = explode("&", $str);     //这里的‘&’是在nginx配置文件中追加的(rewrite ^/(.*) /index.php?$1&),最后一个符号
+    $info = explode("index.php?", $str);
+
     if ($info[0]) {
         $sfile = $info[0];
-        //if ($info[0] == 'index.php') {
-        //  $segments[0] = $default_name['mod'];
-        // } else {
         foreach (explode('/', $info[0]) as $val) {
             if (strpos($val, '-') !== false) {
                 //通过 key - value方式传送参数
@@ -66,10 +64,14 @@ function _explode_segments($str)
             if ($val != '') {
                 $segments[] = $val;
             }
-            // unset($_GET[$val]);
-            // }
         }
     }
+	
+	/*foreach($_segments as $key => $item){
+		$arr = explode('=', $item);
+		$segments[$key] = $arr[1];
+	}*/
+	
 
     $default_name['mod'] = $segments[0] ? $segments[0] : $default_name['mod'];
     $default_name['sfile'] = $sfile;
@@ -117,4 +119,17 @@ function remove_invisible_characters($str, $url_encoded = true)
     } while ($count);
 
     return $str;
+}
+
+function ac_explode($ac){
+    if(strpos($ac, '&')){
+        $ac = explode('&', $ac);
+        return $ac[0];
+    }
+
+    if(strpos($ac, '?')){
+        $ac = explode('?', $ac);
+        return $ac[0];
+    }
+    return $ac;
 }
